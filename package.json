@@ -1,0 +1,22 @@
+{
+  "name": "serviceworker-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andi1984/serviceworker-demo.git"
+  },
+  "author": "Andreas Sander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andi1984/serviceworker-demo/issues"
+  },
+  "homepage": "https://github.com/andi1984/serviceworker-demo#readme",
+  "dependencies": {
+    "serviceworker-cache-polyfill": "^3.0.0"
+  }
+}
