@@ -2,9 +2,9 @@ importScripts('node_modules/serviceworker-cache-polyfill/index.js');
 
 // The files we want to cache
 var urlsToCache = [
-      '/stylesheets/github-light.css',
-      '/stylesheets/normalize.css',
-      '/stylesheets/stylesheet.css'
+      './stylesheets/github-light.css',
+      './stylesheets/normalize.css',
+      './stylesheets/stylesheet.css'
 ];
 
 // Set the callback for the install step
